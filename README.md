@@ -57,7 +57,9 @@ Sample Output:
 Real-World Applications
 
 **Filtering spam emails in email services like Gmail & Outlook.**
+
 **Preventing phishing scams.**
+
 **Automating email categorization in businesses.**
 
 Contributing
