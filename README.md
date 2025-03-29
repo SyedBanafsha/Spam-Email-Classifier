@@ -92,7 +92,7 @@ This project is licensed under the MIT License.
 
 Developed by Syed Banafsha 🔗 
 
-GitHub: https://github.com/SyedBanafsha/Spam-Email-Classifier.git🔗 
+GitHub: https://github.com/SyedBanafsha/Spam-Email-Classifier.git 🔗 
 
 LinkedIn: https://www.linkedin.com/in/syed-banafsha-2492b3283 🔗
 
