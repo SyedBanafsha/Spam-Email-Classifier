@@ -1,6 +1,7 @@
 Spam Email Classifier
 Project Overview:
 This project is a **Spam Email Classifier** that uses **Natural Language Processing (NLP) and Machine Learning** to differentiate between spam and non-spam (ham) emails. The model is trained on a dataset of labeled emails and achieves an accuracy of **96.6%**.
+
 Dataset:
 The dataset contains email messages labeled as either:
 
@@ -30,11 +31,15 @@ git clone https://github.com/SyedBanafsha/Spam-Email-Classifier.git
 cd Spam-Email-Classifier
 
 Install required libraries:
+
 pip install -r requirements.txt
+
 Run the script:
+
 python src/spam_classifier.py
 
 Project Workflow
+
 Data Preprocessing: Cleaning and transforming text data using TF-IDF Vectorization.
 
 Model Training: Training a Naive Bayes classifier on the dataset.
@@ -44,6 +49,7 @@ Evaluation: Checking accuracy, precision, recall, and F1-score.
 Prediction: Classifying new email messages as spam or ham.
 
 Model Performance
+
 Accuracy: 96.6%
 
 Precision: 98% (on average)
@@ -51,6 +57,7 @@ Precision: 98% (on average)
 F1-score: 92%
 
 Sample Output:
+
 ![Screenshot 2025-03-29 143814](https://github.com/user-attachments/assets/19f691b3-c910-4205-8c22-79f598230710)
 
 
